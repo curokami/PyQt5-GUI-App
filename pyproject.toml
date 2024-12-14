@@ -1,5 +1,5 @@
 [project]
-name = "qt-mk"
+name = "PyQt5-GUI-App"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
